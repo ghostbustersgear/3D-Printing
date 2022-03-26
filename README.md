@@ -5,10 +5,11 @@ This repository is provided as a convenient means to access 3D printable STL fil
 Here you will find 3D STL files for the following prop projects:
 
 - 3D Printed Ghost Trap  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/33478760)
-- 3D Printed Ghostbusters Neutrona Wand  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/34692223)
-- 3D Printed Ghostbusters Proton Pack  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/41838757)
+- 3D Printed Neutrona Wand  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/34692223)
+- 3D Printed Proton Pack  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/41838757)
+- 3D Printed Ecto Goggles  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/42602372)
 - 3D Printed Belt Gizmo - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/46870814)
-- 3D Printed Ghostbusters PKE Meter - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/45235766)
+- 3D Printed PKE Meter - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/45235766)
 
 # Support the Author
 The author of these files has an active Patreon page where he regularly releases new content. By subscribing you will be given access to new and original Ghostbusters Gear content in the form of 3D printable props, toys, and electronics guides.
